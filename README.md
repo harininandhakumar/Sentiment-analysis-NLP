@@ -47,3 +47,10 @@ Training a logistic regression model
 Predicting sentiment
 In the future, this process can be applied to real customer reviews from tourism websites, helping businesses understand what people think about different destinations.
 
+OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/92cf7129-5e69-46e1-a744-c17362772a3f)
+![Image](https://github.com/user-attachments/assets/f6f5edda-7c65-4289-a91b-4066ed3fe508)
+![Image](https://github.com/user-attachments/assets/7f6fbd7c-3fab-48bd-af84-d4df4de061d3)
+![Image](https://github.com/user-attachments/assets/be238b5d-a200-4722-baf5-6551a5de1297)
+![Image](https://github.com/user-attachments/assets/19997bc4-92d3-4a12-a04d-71be11686ddd)
